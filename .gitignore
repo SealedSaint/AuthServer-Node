@@ -44,7 +44,7 @@ typings/
 # Optional npm cache directory
 .npm
 
-# Optional eslint cache
+# Optional eslint cache/home/dclark/Documents/Repos/ReduxSimpleStarter
 .eslintcache
 
 # Optional REPL history
