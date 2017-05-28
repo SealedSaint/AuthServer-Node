@@ -19,7 +19,7 @@ You'll need a config file which is ignored by Git in the `.gitignore`. This is i
 
 ```
 const CONFIG = {
-	"secret": "123ABC"
+    "secret": "123ABC"
 }
 
 module.exports = CONFIG
@@ -27,7 +27,9 @@ module.exports = CONFIG
 
 Finally, you'll need to [install MongoDB](https://docs.mongodb.com/getting-started/shell/installation/).
 
-Once you have your `mongod` process up and running, you're ready to start the server: `npm start`. Congrats!
+Once you have your `mongod` process up and running, you're ready to start the server: `npm start`.
+
+Congrats!
 
 ## How it Works
 
